@@ -1,0 +1,7 @@
+[[redirects]]
+  from = "/enroll"
+  to = "https://bit.ly/고브릿지서울참가신청"
+  status = 301
+  force = true
+  [redirects.headers]
+    X-From = "Netlify"

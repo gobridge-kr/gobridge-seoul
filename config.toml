@@ -1,0 +1,35 @@
+baseURL = "https://gobridge-kr.github.io/gobridge-seoul"
+languageCode = "ko-kr"
+title = "고브릿지 서울"
+theme = "terrassa"
+googleAnalytics = "UA-133432031-1"
+
+[params]
+    description = "초심자를 대상으로 하는, 다양성을 위한 프로그래밍 워크샵"
+
+[params.cta]
+    show = true
+    cta = "신청"
+    link = "enroll"
+
+[params.contact]
+    email = "golangbridge.kr@gmail.com"
+    phone = "010-5143-4191"
+
+[params.social]
+    facebook = "https://www.facebook.com/gobridgeseoul"
+    github = "https://github.com/gobridge-kr"
+    instagram = "https://www.instagram.com/gobridge_seoul"
+
+[params.copy]
+    copy = "Gobridge Korea"
+
+[privacy]
+    [privacy.googleAnalytics]
+        anonymizeIP = true
+        disable = false
+        respectDoNotTrack = true
+        useSessionStorage = false
+    [privacy.instagram]
+        disable = false
+        simple = false
