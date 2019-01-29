@@ -10,7 +10,7 @@ googleAnalytics = "UA-133432031-1"
 [params.cta]
     show = true
     cta = "신청"
-    link = "enroll"
+    link = "/enroll"
 
 [params.contact]
     email = "golangbridge.kr@gmail.com"
