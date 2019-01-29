@@ -1,4 +1,4 @@
-baseURL = "https://gobridge-kr.github.io/gobridge-seoul"
+baseURL = "https://gobridge-kr.github.io/gobridge-seoul/"
 languageCode = "ko-kr"
 title = "고브릿지 서울"
 theme = "terrassa"
@@ -10,7 +10,7 @@ googleAnalytics = "UA-133432031-1"
 [params.cta]
     show = true
     cta = "신청"
-    link = "/enroll"
+    link = "enroll"
 
 [params.contact]
     email = "golangbridge.kr@gmail.com"
