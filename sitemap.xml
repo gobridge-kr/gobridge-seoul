@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gobridge-kr.github.io/gobridge-seoul/sections/1-workshop/</loc>
+    <loc>https://gobridge-kr.github.io/gobridge-seoul/</loc>
   </url>
   
   <url>
-    <loc>https://gobridge-kr.github.io/gobridge-seoul/</loc>
+    <loc>https://gobridge-kr.github.io/gobridge-seoul/sections/1-workshop/</loc>
   </url>
   
   <url>
@@ -16,6 +16,10 @@
   
   <url>
     <loc>https://gobridge-kr.github.io/gobridge-seoul/sections/2-engage/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobridge-kr.github.io/gobridge-seoul/sections/3-details/</loc>
   </url>
   
   <url>

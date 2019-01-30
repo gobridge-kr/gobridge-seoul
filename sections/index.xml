@@ -28,5 +28,15 @@
       <description>워크샵 참가, 코드 기여나 번역, 후원, 홍보 등 어떤 방법으로도 고브릿지 서울에 동참하실 수 있습니다. 워크샵 이후에도 스터디 등 활동이 이어질 예정이니 혹시나 행사를 놓치셨더라도 지켜봐 주세요!</description>
     </item>
     
+    <item>
+      <title>더 알아보기</title>
+      <link>https://gobridge-kr.github.io/gobridge-seoul/sections/3-details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobridge-kr.github.io/gobridge-seoul/sections/3-details/</guid>
+      <description>자세한 정보는 상세 사항 페이지를 참고해 주세요.
+    .images, .images  * { width: 100%; display: flex; justify-content: space-evenly; } .images img { max-height: 25vh; object-fit: contain; display: inline; } </description>
+    </item>
+    
   </channel>
 </rss>
