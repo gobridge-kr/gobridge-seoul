@@ -1,5 +1,5 @@
 ---
-title: "행사"
+title: "워크샵"
 description: ""
 images: ["gobridge.png"]
 draft: false
