@@ -16,5 +16,3 @@ hugo.darwin
 hugo.linux
 
 # End of https://www.gitignore.io/api/hugo
-
-/themes/
