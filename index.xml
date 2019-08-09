@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gobridge-kr.github.io/gobridge-seoul/sections/1-workshop/</guid>
-      <description>고브릿지는 프로그래밍 언어 고Go 커뮤니티의 다양성을 위해 워크샵을 개최합니다. 고 프로그래밍을 처음 해보시는 분들과 여성 분들의 참여를 특히 환영합니다. 첫날에는 간단하게 인사를 나누고 개발 도구 설치를 도와드립니다. 둘쨋날에는 본격적인 강의가 진행됩니다. 2월 16일 토요일과 17일 일요일, 서울대학교 사범대 10-1동에서 진행됩니다.</description>
+      <description>고브릿지는 프로그래밍 언어 고Go 커뮤니티의 다양성을 위해 워크샵을 개최합니다. 고 프로그래밍을 처음 해보시는 분들과 여성 분들의 참여를 특히 환영합니다. 첫날에는 간단하게 인사를 나누고 개발 도구 설치를 도와드립니다. 둘쨋날에는 본격적인 강의가 진행됩니다. 9월 21일 토요일과 22일 일요일, 여의도 뱅크샐러드 사무실에서 진행됩니다.</description>
     </item>
     
     <item>
@@ -44,8 +44,7 @@ WE BUILD COMMUNITY 워크샵은 중요한 활동이지만 전부는 아닙니다
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gobridge-kr.github.io/gobridge-seoul/sections/3-details/</guid>
-      <description>자세한 정보는 상세 사항 페이지를 참고해 주세요.
-    .images, .images  * { width: 100%; display: flex; justify-content: space-evenly; } .images img { max-height: 25vh; object-fit: contain; display: inline; } </description>
+      <description>자세한 정보는 상세 사항 페이지를 참고해 주세요.</description>
     </item>
     
     <item>
@@ -64,7 +63,7 @@ WE BUILD COMMUNITY 워크샵은 중요한 활동이지만 전부는 아닙니다
       
       <guid>https://gobridge-kr.github.io/gobridge-seoul/enroll/</guid>
       <description>참가 신청 링크
-;(function () { location.href = &amp;lsquo;https://bit.ly/고브릿지서울신청&#39; })();</description>
+;(function () { location.href = &amp;lsquo;https://bit.ly/고브릿지서울2019하반기&#39; })();</description>
     </item>
     
   </channel>
