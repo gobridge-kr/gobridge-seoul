@@ -16,4 +16,4 @@ weight: 2
 
 # __WE BUILD THE WORLD__
 
-변화는 작은 곳에서 시작합니다. 우리가 함께 해낼 수 있습니다. 고브릿지 서울 워크샵은 [2월 16일과 17일에 걸쳐 진행](../details)됩니다. [참가 신청](../enroll)을 남겨 주세요. 행사나 커뮤니티, 다른 지역에서의 행사 준비 등에 대해 궁금한 점은 [슬랙 채널](https://gobridge-seoul-invitation.herokuapp.com/), [페이스북](https://www.facebook.com/gobridgeseoul) 또는 [인스타그램](https://www.instagram.com/gobridge_seoul) 계정을 통해 문의해 주세요.
+변화는 작은 곳에서 시작합니다. 우리가 함께 해낼 수 있습니다. 고브릿지 서울 워크샵은 [9월 21일과 22일에 걸쳐 진행](../details)됩니다. [참가 신청](../enroll)을 남겨 주세요. 행사나 커뮤니티, 다른 지역에서의 행사 준비 등에 대해 궁금한 점은 [슬랙 채널](https://gobridge-seoul-invitation.herokuapp.com/), [페이스북](https://www.facebook.com/gobridgeseoul) 또는 [인스타그램](https://www.instagram.com/gobridge_seoul) 계정을 통해 문의해 주세요.
